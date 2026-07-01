@@ -14,17 +14,17 @@ Pick up a dataset in our common datasets repos and break your work into big step
  	- Try to build the questions before knowing everything about the data
  	- If not possible, do step 2. first
  2. Data Analysis: Understand your dataset and create a report (word document) about it
+	- I. univariate analysis:
+		analyse 2 columns at least
+	- II: bivariate
+		as mentioned in propsal
  3. Data Exploration and Business Understanding: 
  	- Import your dataset into SQL
  	- Answer your Business questions with SQL Queries
 
 
 ## Dataset repos
-
- - [Kaggle](https://www.kaggle.com/)
- - [Machine Learning Repository](https://archive.ics.uci.edu/)
- - [PorData](https://www.pordata.pt/)
- - [And many more](https://medium.com/@LearnPythonProgramming/best-data-sources-for-datasets-beyond-kaggle-98aac51e971e)
+https://www.kaggle.com/datasets/leonidkiselev/football-matches-statistics
 
 
 ## Bonus
